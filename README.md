@@ -7,7 +7,7 @@ Plugin for _fish shell_ to integrate ruby and bundler into efficiency-seeking wo
 With [fisherman]
 
 ```fish
-$ fisher add timnew/ruby.fish
+$ fisher install timnew/ruby.fish
 ```
 
 ## Examples
